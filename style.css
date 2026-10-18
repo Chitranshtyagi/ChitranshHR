@@ -57,6 +57,14 @@ body{
     margin-right: 5px;
     color: #f1f5f9;
     font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
+    
+}
+
+#card1btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
 }
 
 .card2{
@@ -71,6 +79,13 @@ body{
     font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
 }
 
+#card2btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
 .card3{
      background-color: #1e293b;
     border: 1px solid #334155;
@@ -83,6 +98,12 @@ body{
     margin-bottom: 10px;
 }
 
+#card3btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
 
 .card4{
      background-color: #1e293b;
@@ -96,7 +117,32 @@ body{
     font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
 }
 
+#card4btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
 .card5{
+     background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 16px;
+    padding: 20px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: #f1f5f9;
+    font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
+}
+
+#card5btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.card6{
      background-color: #1e293b;
     border: 1px solid #334155;
     border-radius: 16px;
@@ -106,6 +152,23 @@ body{
     margin-right: 5px;
     color: #f1f5f9;
     font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
+}
+
+#card6btn{
+    background-color: #10b926;
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+#notice{
+    color: #fbbf24;
+    font-size: 1.1rem;
+    font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    margin-bottom: 70px;
+    text-decoration: underline;
 }
 
 
@@ -120,7 +183,7 @@ body{
     text-align: center;
     font-size: 1.5rem;
     color: white;
-   font-family: 'Dancing Script', cursive;
+   font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
 }
 
 #footerp2{
@@ -128,7 +191,7 @@ body{
     font-size: 1.5rem;
     color: white;
     margin: 4px;
-    font-family: 'Dancing Script', cursive;
+    font-family: 'poppins',sans-serif,Arial, Helvetica, sans-serif;
 }
 
 #footerp3{
